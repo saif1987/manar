@@ -1,0 +1,27 @@
+[08-Oct-2024 02:15:41 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 02:59:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 03:03:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 03:05:40 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 03:11:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 04:51:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 04:55:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 04:59:30 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:02:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:02:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:02:30 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:02:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:31:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:32:01 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 05:58:41 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Saif\Local Sites\almanar\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Oct-2024 07:18:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_optimized_size_keys` successfully executed.
+[08-Oct-2024 07:18:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[08-Oct-2024 07:18:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_avif_with_zero_dimensions` successfully executed.
+[08-Oct-2024 07:20:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[08-Oct-2024 07:22:54 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\Saif\Local Sites\almanar\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[08-Oct-2024 07:27:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[08-Oct-2024 07:39:39 UTC] PHP Warning:  Undefined array key "queryData" in C:\Users\Saif\Local Sites\almanar\app\public\wp-content\plugins\essential-blocks\includes\Blocks\PostCarousel.php on line 81
+[09-Oct-2024 01:03:19 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\Saif\Local Sites\almanar\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[09-Oct-2024 01:19:23 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\Saif\Local Sites\almanar\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[09-Oct-2024 02:04:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[09-Oct-2024 02:04:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[09-Oct-2024 02:06:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
