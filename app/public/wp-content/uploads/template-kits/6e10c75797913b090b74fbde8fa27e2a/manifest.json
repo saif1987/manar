@@ -1,0 +1,1731 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "E-sports",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home-1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 (Pro)",
+            "screenshot": "screenshots\/home-3-pro-.jpg",
+            "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4 (Pro)",
+            "screenshot": "screenshots\/home-4-pro-.jpg",
+            "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us (Pro)",
+            "screenshot": "screenshots\/about-us-pro-.jpg",
+            "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Teams (Pro)",
+            "screenshot": "screenshots\/teams-pro-.jpg",
+            "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Player",
+            "screenshot": "screenshots\/player.jpg",
+            "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Schedule (Pro)",
+            "screenshot": "screenshots\/schedule-pro-.jpg",
+            "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Streams",
+            "screenshot": "screenshots\/streams.jpg",
+            "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Updates (Pro)",
+            "screenshot": "screenshots\/updates-pro-.jpg",
+            "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-c28c116c3373e5b3659dddd3299efe51.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon (Pro)",
+            "screenshot": "screenshots\/coming-soon-pro-.jpg",
+            "source": "templates\/coming-soon-pro-98c716c6492bf0545ae9d00eb8a29cdf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-b544b77b0ea73d6ec63b94b2cb4af715.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "glowybg-kappy.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/glowybg-kappy-500x203.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                },
+                {
+                    "source": "templates\/contact-us-c28c116c3373e5b3659dddd3299efe51.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/coming-soon-pro-98c716c6492bf0545ae9d00eb8a29cdf.json",
+                    "name": "Coming Soon (Pro)"
+                },
+                {
+                    "source": "templates\/coming-soon-b544b77b0ea73d6ec63b94b2cb4af715.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 155506,
+            "dimensions": [
+                2048,
+                831
+            ]
+        },
+        {
+            "filename": "anthony-brolin-nVzSd3zrKDtE-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-nVzSd3zrKDtE-unsplash-min-500x366.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                }
+            ],
+            "filesize": 128968,
+            "dimensions": [
+                1456,
+                1065
+            ]
+        },
+        {
+            "filename": "anthony-brolin-1681240-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-1681240-unsplash-min-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 208077,
+            "dimensions": [
+                1400,
+                932
+            ]
+        },
+        {
+            "filename": "band-celebration-club-2240763.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/band-celebration-club-2240763-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 267064,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "player-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/player-min-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 179403,
+            "dimensions": [
+                700,
+                700
+            ]
+        },
+        {
+            "filename": "stem-list-FqewNnB378s-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/stem-list-FqewNnB378s-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 169603,
+            "dimensions": [
+                1919,
+                1080
+            ]
+        },
+        {
+            "filename": "6003769731_4e9ce1dc13_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6003769731_4e9ce1dc13_b-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 138451,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "csgo.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/csgo.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 3858,
+            "dimensions": [
+                91,
+                39
+            ]
+        },
+        {
+            "filename": "6003727169_3bcf196cb6_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6003727169_3bcf196cb6_b-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 142581,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "6003681277_6010e4006f_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6003681277_6010e4006f_b-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 138556,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "6004186086_20a9a32d8f_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6004186086_20a9a32d8f_b-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 145407,
+            "dimensions": [
+                1024,
+                683
+            ]
+        },
+        {
+            "filename": "6003712295_5c309e3018_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6003712295_5c309e3018_b-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 130895,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "6003648553_f3b5426611_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/6003648553_f3b5426611_b-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 90870,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "overwatch.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/overwatch.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 4762,
+            "dimensions": [
+                88,
+                49
+            ]
+        },
+        {
+            "filename": "fortnite.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/fortnite.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 3530,
+            "dimensions": [
+                90,
+                25
+            ]
+        },
+        {
+            "filename": "adult-competition-concentration-92983331-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/adult-competition-concentration-92983331-min-500x284.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 93328,
+            "dimensions": [
+                1920,
+                1091
+            ]
+        },
+        {
+            "filename": "logo1w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/logo1w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                }
+            ],
+            "filesize": 6237,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "logo35w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/logo35w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                }
+            ],
+            "filesize": 8376,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "logo36w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/logo36w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                }
+            ],
+            "filesize": 10957,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "andre-hunter-lEY5xl5D8CY-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/andre-hunter-lEY5xl5D8CY-unsplash-min-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cf2b68506a62c23e2c6c76f0b497eef3.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 93963,
+            "dimensions": [
+                1400,
+                934
+            ]
+        },
+        {
+            "filename": "florian-olivo-Mf23RF8xArY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/florian-olivo-Mf23RF8xArY-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 115044,
+            "dimensions": [
+                1620,
+                1080
+            ]
+        },
+        {
+            "filename": "v351batch2-kul-51-nightparty_2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/v351batch2-kul-51-nightparty_2-500x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                }
+            ],
+            "filesize": 180156,
+            "dimensions": [
+                2048,
+                1280
+            ]
+        },
+        {
+            "filename": "logo32w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/logo32w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/contact-us-c28c116c3373e5b3659dddd3299efe51.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9909,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "hearthstone.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/hearthstone.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 5527,
+            "dimensions": [
+                106,
+                25
+            ]
+        },
+        {
+            "filename": "anthony-brolin-tud2gHbDJuw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-tud2gHbDJuw-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 295458,
+            "dimensions": [
+                1623,
+                1080
+            ]
+        },
+        {
+            "filename": "anthony-brolin-vU6q_jujjpo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-vU6q_jujjpo-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 117857,
+            "dimensions": [
+                1623,
+                1080
+            ]
+        },
+        {
+            "filename": "logo44w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/logo44w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 16608,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-544744-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/image-from-rawpixel-id-544744-jpeg-500x312.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/contact-us-c28c116c3373e5b3659dddd3299efe51.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 304273,
+            "dimensions": [
+                3500,
+                2187
+            ]
+        },
+        {
+            "filename": "stem-list-mU-C52Ideoeo-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/stem-list-mU-C52Ideoeo-unsplash-min-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-2b274a9670e410c12e02ef4831a2c589.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 129235,
+            "dimensions": [
+                2000,
+                1125
+            ]
+        },
+        {
+            "filename": "anthony-brolin-nVzSdzrKDtE-unspldash-min.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-nVzSdzrKDtE-unspldash-min-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                }
+            ],
+            "filesize": 692613,
+            "dimensions": [
+                1064,
+                1065
+            ]
+        },
+        {
+            "filename": "fev4okgev4xmxdogdwdf.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/fev4okgev4xmxdogdwdf-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                }
+            ],
+            "filesize": 134758,
+            "dimensions": [
+                960,
+                540
+            ]
+        },
+        {
+            "filename": "27529824866_bbc109b26d_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/27529824866_bbc109b26d_b-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/coming-soon-pro-98c716c6492bf0545ae9d00eb8a29cdf.json",
+                    "name": "Coming Soon (Pro)"
+                }
+            ],
+            "filesize": 154844,
+            "dimensions": [
+                1024,
+                576
+            ]
+        },
+        {
+            "filename": "26953773443_208d6a4170_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/26953773443_208d6a4170_b-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-3cf73fe93486e76a9d8f62220b2dd650.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 171419,
+            "dimensions": [
+                1024,
+                576
+            ]
+        },
+        {
+            "filename": "30238781687_9decc622ac3_b-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/30238781687_9decc622ac3_b-min-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 124004,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "4a22547768175.562e262c2afd0-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/4a22547768175.562e262c2afd0-min-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 45554,
+            "dimensions": [
+                750,
+                500
+            ]
+        },
+        {
+            "filename": "artiom-vallat-1nCKGXSlYMI-unsp3lash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/artiom-vallat-1nCKGXSlYMI-unsp3lash-min-500x561.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 104715,
+            "dimensions": [
+                1400,
+                1572
+            ]
+        },
+        {
+            "filename": "set-1-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/set-1-min-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/schedule-pro-6d8805d4e35dbf1beef9fe11fc3cbb80.json",
+                    "name": "Schedule (Pro)"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                }
+            ],
+            "filesize": 11736,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "fredrick-tendong-m1g4-dczgcc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/fredrick-tendong-m1g4-dczgcc-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-5c4e96addb40171e86cdf7b173b2ee2e.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-pro-75ac3cf6d70180b82d67b6d11c54f2c3.json",
+                    "name": "About Us (Pro)"
+                },
+                {
+                    "source": "templates\/updates-pro-f5f6afb40fb24ca7f886d3005aa64b16.json",
+                    "name": "Updates (Pro)"
+                },
+                {
+                    "source": "templates\/coming-soon-b544b77b0ea73d6ec63b94b2cb4af715.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 113706,
+            "dimensions": [
+                1620,
+                1080
+            ]
+        },
+        {
+            "filename": "pubg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/pubg.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teams-pro-85f29445dd07ad53eea44a12adb7da0b.json",
+                    "name": "Teams (Pro)"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                },
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 4696,
+            "dimensions": [
+                70,
+                40
+            ]
+        },
+        {
+            "filename": "34523662376_ea2799c468_b-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/34523662376_ea2799c468_b-min-500x346.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 59234,
+            "dimensions": [
+                1024,
+                708
+            ]
+        },
+        {
+            "filename": "anthony-brolin-Pm3EHutZixU-unsplash-min.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/anthony-brolin-Pm3EHutZixU-unsplash-min-500x801.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                }
+            ],
+            "filesize": 271445,
+            "dimensions": [
+                600,
+                961
+            ]
+        },
+        {
+            "filename": "34402971972_f8d366fec1_b-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/34402971972_f8d366fec1_b-min-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 51881,
+            "dimensions": [
+                1024,
+                681
+            ]
+        },
+        {
+            "filename": "34402940362_8fe6d7e96c_b-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/34402940362_8fe6d7e96c_b-min-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 50337,
+            "dimensions": [
+                1024,
+                681
+            ]
+        },
+        {
+            "filename": "33721927954_ce9f5bef0f_b-min-1-e1561152760738.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/33721927954_ce9f5bef0f_b-min-1-e1561152760738-500x325.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-30b5c6f081b517ae0de64a30bff06ea3.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 47647,
+            "dimensions": [
+                936,
+                608
+            ]
+        },
+        {
+            "filename": "partner4-cc0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/partner4-cc0.png",
+            "templates": [
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                }
+            ],
+            "filesize": 6297,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "partner2-cc0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/partner2-cc0.png",
+            "templates": [
+                {
+                    "source": "templates\/player-76bd6ed1b047cc1a2c34a5b59b5d023c.json",
+                    "name": "Player"
+                }
+            ],
+            "filesize": 5185,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "speaker-min.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/speaker-min-500x282.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 107719,
+            "dimensions": [
+                600,
+                338
+            ]
+        },
+        {
+            "filename": "3068392dfdf0458_a5e7ba5b2e_b-min.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/3068392dfdf0458_a5e7ba5b2e_b-min-500x282.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 102939,
+            "dimensions": [
+                600,
+                338
+            ]
+        },
+        {
+            "filename": "about-video.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/about-video-500x282.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 352663,
+            "dimensions": [
+                600,
+                338
+            ]
+        },
+        {
+            "filename": "26641907205_a3d913a79a_b.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/26641907205_a3d913a79a_b-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 144855,
+            "dimensions": [
+                1024,
+                683
+            ]
+        },
+        {
+            "filename": "adult-competition-concentration-929831.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/adult-competition-concentration-929831-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-5585ff89ea0a394c946ed926c7be0636.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 313598,
+            "dimensions": [
+                1920,
+                1271
+            ]
+        },
+        {
+            "filename": "43087075224_39f017ce1e_b-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/43087075224_39f017ce1e_b-min-500x347.jpg",
+            "templates": [
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 88465,
+            "dimensions": [
+                600,
+                416
+            ]
+        },
+        {
+            "filename": "cod.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/cod.png",
+            "templates": [
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 4852,
+            "dimensions": [
+                88,
+                33
+            ]
+        },
+        {
+            "filename": "fortnite-webkit-pubdom.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-172\/wp-content\/uploads\/sites\/168\/2019\/06\/fortnite-webkit-pubdom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/streams-524512dbbdd3015eb657653054748400.json",
+                    "name": "Streams"
+                }
+            ],
+            "filesize": 8765,
+            "dimensions": [
+                300,
+                168
+            ]
+        }
+    ]
+}
